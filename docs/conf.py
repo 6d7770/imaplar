@@ -91,7 +91,7 @@ html_theme = 'alabaster'
 # html_theme_options = {}
 html_theme_options = {
     'description': 'Monitor IMAP mailboxes',
-    'github_user': 'MichaelPaddon',
+    'github_user': '6d7770',
     'github_repo': 'imaplar',
     'fixed_sidebar': True,
     'logo': 'logo.png',

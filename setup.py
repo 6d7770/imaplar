@@ -21,7 +21,7 @@ setuptools.setup(
         'Topic :: Communications :: Email :: Filters',
         'Topic :: Communications :: Email :: Post-Office :: IMAP',
     ],
-    url = "https://github.com/MichaelPaddon/imaplar",
+    url = "https://github.com/6d7770/imaplar",
     license = "GPLv3+",
     keywords = "imap",
     packages = setuptools.find_namespace_packages(include = ["imaplar"]),
